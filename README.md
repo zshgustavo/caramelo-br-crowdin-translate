@@ -77,3 +77,9 @@ Para contribuir, acesse o [projeto no Crowdin](https://br.crowdin.com/project/ca
 As traduções devem priorizar **clareza, naturalidade, contexto e consistência**, evitando traduções excessivamente literais.
 
 **English → Português do Brasil. Uma tradução por vez.**
+
+
+
+[![Crowdin](https://badges.crowdin.net/caramelo-br-translators/localized.svg)](https://crowdin.com/project/caramelo-br-translators)
+
+
